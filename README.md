@@ -1,6 +1,6 @@
 # Nanomedicine Regulatory Guide
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20405346.svg)](https://doi.org/10.5281/zenodo.20405346)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18%2B-blue)](https://react.dev/)
 
