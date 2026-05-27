@@ -1,6 +1,7 @@
 # Nanomedicine Regulatory Guide
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20405346.svg)](https://doi.org/10.5281/zenodo.20405346)
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Now-brightgreen)](https://nanomedicine-regulatory-guide.netlify.app)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18%2B-blue)](https://react.dev/)
 
@@ -40,6 +41,14 @@ global regulatory authorities with India as the primary focus.
 - Clinical Development (5 items)
 - Comparability and Lifecycle (4 items)
 - Regulatory Engagement (5 items)
+
+## Live Demo
+
+The app is deployed and accessible here:
+
+**https://nanomedicine-regulatory-guide.netlify.app**
+
+No installation or setup required — open the link and use it directly in your browser.
 
 ## How to Run Locally
 
